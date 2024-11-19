@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zaid!
-👩🏻‍🎓 Seventh Semester Computer Science Student at the Gadjah Mada University, Indonesia
-👩🏻‍💻 This page include all my curious that accompany me :D
-🌷 Kindly check my [portfolio website](farisznafis.webflow.io)!
+👩🏻‍🎓 Seventh Semester Computer Science Student at the Gadjah Mada University, Indonesia<br>
+👩🏻‍💻 This page include all my curious that accompany me :D<br>
+🌷 Kindly check my [portfolio website](farisznafis.webflow.io)!<br>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![farisznafis's Stats](https://github-readme-stats.vercel.app/api?username=farisznafis&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)

@@ -26,12 +26,6 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<!-- # 🎥 Just Bored Videos I Made -->
-<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
-<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+# 🎥 Just Bored Videos I Made
 <!-- BEGIN YOUTUBE-CARDS -->
-<!-- [![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
-[![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
-[![My Computer Science degree in 13 minutes](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "My Computer Science degree in 13 minutes")](https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3) -->
+<!-- END YOUTUBE-CARDS -->

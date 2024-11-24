@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    name: Jobs to update datas
+    name: generate-snake-game-from-github-contribution-grid
     runs-on: ubuntu-latest
     steps:
       # Snake Animation

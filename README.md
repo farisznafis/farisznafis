@@ -28,4 +28,7 @@
 
 # 🎥 Just Bored Videos I Made
 <!-- BEGIN YOUTUBE-CARDS -->
+[![worth it - 2 Bangkit Things You Should Know](https://ytcards.demolab.com/?id=9vs6u9fHUys&title=worth+it+-+2+Bangkit+Things+You+Should+Know&lang=en&timestamp=1699808315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "worth it - 2 Bangkit Things You Should Know")](https://www.youtube.com/watch?v=9vs6u9fHUys)
+[![Perubahan Paradigma - Growth Mindset vs Fixed Mindset Creative Video Challenge](https://ytcards.demolab.com/?id=nhUbSx-ovoU&title=Perubahan+Paradigma+-+Growth+Mindset+vs+Fixed+Mindset+Creative+Video+Challenge&lang=en&timestamp=1698946581&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Perubahan Paradigma - Growth Mindset vs Fixed Mindset Creative Video Challenge")](https://www.youtube.com/watch?v=nhUbSx-ovoU)
+[![Praktikum Sel Elektrolisis Kimia - SMA Negeri 1 Depok](https://ytcards.demolab.com/?id=9CokF3ZVAto&title=Praktikum+Sel+Elektrolisis+Kimia+-+SMA+Negeri+1+Depok&lang=en&timestamp=1600142676&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Praktikum Sel Elektrolisis Kimia - SMA Negeri 1 Depok")](https://www.youtube.com/watch?v=9CokF3ZVAto)
 <!-- END YOUTUBE-CARDS -->

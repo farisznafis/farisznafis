@@ -1,6 +1,7 @@
-<!-- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg) -->
 <!-- add image -->
 ![banner](github-banner.png)
+<!-- snake -->
+![snake gif](https://github.com/farisznafis/farisznafis/blob/output/github-snake-dark.svg)
 
 # 👋 Hi, I'm Zaid!
 👩🏻‍🎓 Seventh Semester Computer Science Student at the Gadjah Mada University, Indonesia<br>
@@ -9,7 +10,7 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![farisznafis's Stats](https://github-readme-stats.vercel.app/api?username=farisznafis&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
-![farisznafis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=farisznafis&theme=tokyonight&hide_border=true)
+<!-- ![farisznafis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=farisznafis&theme=tokyonight&hide_border=true) -->
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
